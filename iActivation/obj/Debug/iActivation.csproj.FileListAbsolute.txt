@@ -1,0 +1,13 @@
+C:\Users\pubudu\source\repos\Samsung frp project C#\iActivation\bin\Debug\SAMSUNG FRP V1.0.exe.config
+C:\Users\pubudu\source\repos\Samsung frp project C#\iActivation\bin\Debug\SAMSUNG FRP V1.0.exe
+C:\Users\pubudu\source\repos\Samsung frp project C#\iActivation\bin\Debug\SAMSUNG FRP V1.0.pdb
+C:\Users\pubudu\source\repos\Samsung frp project C#\iActivation\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\pubudu\source\repos\Samsung frp project C#\iActivation\obj\Debug\iActivation.MainForm.resources
+C:\Users\pubudu\source\repos\Samsung frp project C#\iActivation\obj\Debug\iActivation.Properties.Resources.resources
+C:\Users\pubudu\source\repos\Samsung frp project C#\iActivation\obj\Debug\iActivation.USBAllow.resources
+C:\Users\pubudu\source\repos\Samsung frp project C#\iActivation\obj\Debug\iActivation.csproj.GenerateResource.cache
+C:\Users\pubudu\source\repos\Samsung frp project C#\iActivation\obj\Debug\iActivation.csproj.CoreCompileInputs.cache
+C:\Users\pubudu\source\repos\Samsung frp project C#\iActivation\obj\Debug\iActivation.csproj.Fody.CopyLocal.cache
+C:\Users\pubudu\source\repos\Samsung frp project C#\iActivation\obj\Debug\iActivation.csproj.CopyComplete
+C:\Users\pubudu\source\repos\Samsung frp project C#\iActivation\obj\Debug\SAMSUNG FRP V1.0.exe
+C:\Users\pubudu\source\repos\Samsung frp project C#\iActivation\obj\Debug\SAMSUNG FRP V1.0.pdb
