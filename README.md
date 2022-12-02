@@ -1,4 +1,4 @@
-# Samsung frp bypass tool C#
+# Samsung Frp Bypass Tool C#
 
 Samsung Usb Driver https://www.mediafire.com/file/op3ycywzjkqky61/SAMSUNG_USB_Driver_for_Mobile_Phones.exe/file
 
